@@ -1,5 +1,5 @@
 {
-	"Game_Analytic_Config": false,
+	"Game_Analytic_Config": true,
 	"Ironsource_Config": true,
 	"IAP_Config": true,
 	"Adjust_Config": false
